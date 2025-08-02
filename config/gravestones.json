@@ -1,8 +1,8 @@
 {
   "aesthetic_gravestones": "true",
-  "decay_with_time": "false",
-  "decay_with_deaths": "false",
-  "decay_time": "576000",
+  "decay_with_time": "true",
+  "decay_with_deaths": "true",
+  "decay_time": "12096000",
   "decay_time_type": "TICKS",
   "store_experience": "true",
   "experience_cap": "true",
